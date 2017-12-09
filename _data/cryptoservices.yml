@@ -1,4 +1,13 @@
 websites:
+  - name: BchTips.org
+    url: https://bchtips.org
+    twitter: 
+    facebook: 
+    img: https://bchtips.org/
+    bcc: yes
+    btc: no
+    othercrypto: no
+    doc:
   - name: BitcoinPlug
     url: https://bitcoinplug.com
     twitter: bitcoinplugatm
